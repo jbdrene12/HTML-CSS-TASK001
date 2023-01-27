@@ -1,0 +1,20 @@
+.catImg {
+    object-fit: cover;
+    height: 250px;
+    width: 18%;
+    margin-top: 15px;
+    margin-left: 5px;
+    position: absolute;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+#main {
+    display: flex;
+    width:80%;
+}
+
+

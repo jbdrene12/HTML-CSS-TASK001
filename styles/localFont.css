@@ -1,0 +1,17 @@
+@font-face {
+    font-family: Sayori;
+    src: url("../assets/Sayori.ttf");
+}
+
+header {
+    font-family: Sayori;
+}
+
+h1 {
+    text-align: center;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    text-decoration: underline;
+    text-decoration-skip-ink: none;
+}
