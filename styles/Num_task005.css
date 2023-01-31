@@ -1,0 +1,25 @@
+hr {
+    width: 25%;
+    padding: 0.5%;
+    text-align: center;
+    background-color: #00aaaa;
+    border: 0;
+}
+
+body {
+    background-color: #2b2a2a;
+}
+
+#mainDiv {
+    margin-top: 50px;
+}
+
+.num {
+    margin: 0 auto;
+    color: #ffffff;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 1000;
+    font-size: large;
+    letter-spacing: 10px;
+}
