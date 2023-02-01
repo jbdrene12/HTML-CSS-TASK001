@@ -2,6 +2,6 @@
     width: 200px;
     height: 200px;
     position: absolute;
-    bottom: calc(50% - 100px);
-    left: calc(90% - 100px);
+    bottom: calc((100% - 200px)/2);
+    left: calc(0.875*(100% - 200px));
     }

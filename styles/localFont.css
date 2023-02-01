@@ -1,19 +1,74 @@
 @font-face {
-    font-family: Sayori;
-    src: url("../assets/Sayori.ttf");
+  font-family: Sayori;
+  src: url("../assets/Sayori.ttf");
 }
 
-header {
-    font-family: Sayori;
+@font-face {
+  font-family: glockenspiel;
+  src: url("../assets/LTGlockenspielBlack.ttf");
+}
+
+@font-face {
+  font-family: stair;
+  src: url("../assets/LTStaircase.otf");
+}
+
+@font-face {
+  font-family: score;
+  src: url("../assets/LTScore.otf");
+}
+
+@font-face {
+  font-family: zombie;
+  src: url("../assets/ZombieFoodDemoRegular.ttf");
+}
+
+@font-face {
+  font-family: ghost;
+  src: url("../assets/ScreamGhost.otf");
+}
+
+h6 {
+  font-family: Sayori;
+  margin-top: -10px;
+}
+
+h2 {
+  font-family: ghost;
+}
+
+h3 {
+  font-family: zombie;
+}
+
+h4 {
+  font-family: score;
+}
+
+h5 {
+  font-family: stair;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  text-decoration: underline;
+  text-decoration-skip-ink: none;
+  text-align: center;
 }
 
 h1 {
-    text-align: center;
-
+  font-family: glockenspiel;
+  font-size: xx-large;
 }
 
-h1,h2,h3,h4,h5,h6 {
-    text-decoration: underline;
-    text-decoration-skip-ink: none;
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-size: x-large;
 }
-
